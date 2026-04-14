@@ -28,7 +28,7 @@ Script sederhana berbasis Bash untuk menginstal dan mengkonfigurasi MariaDB seca
 ### 1. Clone Repository
 
 ```bash
-git https://github.com/poky-droid/MariaDb.git
+git clone https://github.com/poky-droid/MariaDb.git
 cd MariaDb
 ```
 
